@@ -7,7 +7,7 @@
  * **MiraCosta Community College** / Part time student during gap year / Oceanside, CA U.S.A. / September 2020 – May 2021
     * Women in Computer Science Club Member, Computer Science Club Member    
 
-## Experience
+## Computer Science Experience
  * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA U.S.A. / June 2020 – August 2020
     * Automated Delegated Quality Representative (DQR) certification tracking and reinforced forms management via Excel VBA; monitored supplier AS9100 and NADCAP certifications.
     * Coded a DQR tracker capable of reducing time spent on follow-up tasks by over 90%.
