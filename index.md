@@ -8,6 +8,11 @@
     * Women in Computer Science Club Member, Computer Science Club Member    
 
 ## Computer Science Experience
+ * **Viasat** / Satellite Pilot / Carlsbad, CA U.S.A. / October 2020 – Present
+    * Automating satellite commands through Python and Excel VBA.
+    * Monitoring Viasat satellites and executing commands and procedures for proper functionality.
+    * Collecting range data including troubleshooting and scheduling data.
+    * Assisting engineers with analysis of spacecraft anomalies.
  * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA U.S.A. / June 2020 – August 2020
     * Automated Delegated Quality Representative (DQR) certification tracking and reinforced forms management via Excel VBA; monitored supplier AS9100 and NADCAP certifications.
     * Coded a DQR tracker capable of reducing time spent on follow-up tasks by over 90%.
