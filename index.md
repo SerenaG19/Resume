@@ -43,7 +43,9 @@
 **Java**, **C#**, **VBA**, **HTML**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
 
 ## Languanges
-English, French 
+* English - Native Language
+* French - Advanced
+* Spanish - Beginner
 
 ## Certificates
 * Learning VBA in Excel – LinkedIn Learning, May 2020; SOLIDWORKS 
