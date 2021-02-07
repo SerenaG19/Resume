@@ -48,10 +48,11 @@
 * Spanish - Beginner
 
 ## Certificates
-* Learning VBA in Excel – LinkedIn Learning, May 2020; SOLIDWORKS 
-* 2017 Essential Training – LinkedIn Learning, January 2020
+* Learning VBA in Excel – LinkedIn Learning, May 2020
+* SOLIDWORKS 2017 Essential Training – LinkedIn Learning, January 2020
 
 ## Awards
+ * 2020 Dorothy Lemke Howarth Memorial Scholarship
  * Society of Women Engineers [SWENext Local Innovator Award](https://www.youtube.com/watch?v=JQgJAgrBz7U), 2018
  * CA Senate Certificate of Recognition, Outstanding Community Service, 2018
 
