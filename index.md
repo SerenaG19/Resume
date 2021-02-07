@@ -8,8 +8,8 @@
     * Women in Computer Science Club Member, Computer Science Club Member    
 
 ## Computer Science Experience
- * **Viasat** / Satellite Pilot / Carlsbad, CA U.S.A. / October 2020 – Present
-    * Automating satellite commands through Python and Excel VBA.
+ * **Viasat** / Satellite Pilot, with Satellite Controller Certification / Carlsbad, CA U.S.A. / October 2020 – Present
+    * Automating satellite commands through Python, Excel VBA, and KRATOS ARES software.
     * Monitoring Viasat satellites and executing commands and procedures for proper functionality.
     * Collecting range data including troubleshooting and scheduling data.
     * Assisting engineers with analysis of spacecraft anomalies.
@@ -33,7 +33,11 @@
     * Demonstrated dendrites do not form in cells with a SnO-based electron transport layer.
 
 ## Computer Science Coursework
-Data Structures & Algorithms, AP Computer Science A, AP Computer Science Principles, Computer Game Design
+* Computer Architecture and Assembly Language
+* Data Structures and Algorithms
+* AP Computer Science A
+* AP Computer Science Principles
+* Computer Game Design
 
 ## IT Skills
 **Java**, **C#**, **VBA**, **HTML**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
