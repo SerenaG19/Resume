@@ -57,6 +57,6 @@
  * CA Senate Certificate of Recognition, Outstanding Community Service, 2018
 
 ## Volunteering
- * Engineering outreach with kindergartners at Casa de Amistad
- * Math tutor for Pacific Trails Middle School
- * Integrated Math I – III tutor for Special Education Support Class
+ * Engineering outreach with kindergartners at Casa de Amistad - Solana Beach, CA
+ * Math tutor for Pacific Trails Middle School - San Diego, CA
+ * Integrated Math I-III tutor for Special Education Support Class at Canyon Crest Academy - San Diego, CA
