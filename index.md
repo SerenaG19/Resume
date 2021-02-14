@@ -3,7 +3,7 @@
 
 ## Education
  * **Smith College** / Engineering Science, B.S. / Gap Year / Northampton, MA U.S.A. / September 2019 – May 2024
-    * STRIDE Scholar, 2020 Dorothy Lemke Howarth Memorial Scholarship, Society of Women Engineers Social Events Coordinator, Introduce a Girl to Engineering Day Activity Leader
+    * STRIDE Scholar, Society of Women Engineers Social Events Coordinator, Introduce a Girl to Engineering Day Activity Leader and Planning Committee Member
  * **MiraCosta Community College** / Part time student during gap year / Oceanside, CA U.S.A. / September 2020 – May 2021
     * Women in Computer Science Club Member, Computer Science Club Member    
 
