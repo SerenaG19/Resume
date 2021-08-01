@@ -2,17 +2,29 @@
 ## [Email](mailto:serena.geroe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/serena-geroe/)
 
 ## Education
- * **Smith College** / Engineering Science, B.S. / Gap Year / Northampton, MA U.S.A. / September 2019 – May 2024
+ * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2025 (Gap Year 2020-2021)
     * STRIDE Scholar, Society of Women Engineers Social Events Coordinator, Introduce a Girl to Engineering Day Activity Leader and Planning Committee Member
  * **MiraCosta Community College** / Part time student during gap year / Oceanside, CA U.S.A. / September 2020 – May 2021
     * Women in Computer Science Club Member, Computer Science Club Member    
 
 ## Computer Science Experience
- * **Viasat** / Satellite Pilot, with Satellite Controller Certification / Carlsbad, CA U.S.A. / October 2020 – Present
-    * Automating satellite commands through Python, Excel VBA, and KRATOS ARES software.
-    * Monitoring Viasat satellites and executing commands and procedures for proper functionality.
-    * Collecting range data including troubleshooting and scheduling data.
-    * Assisting engineers with analysis of spacecraft anomalies.
+ * **Collins Aerospace** / Intern, Quality Engineerng, Sophomore / Windsor Locks, CT U.S.A. / June 2021 – July 2021
+   * Saved about 20 days of processing time by supporting aging quality issue management burndown.
+   * Wrote VBA code to automate data processing for 200+ data sets.
+   * Earned CORE Associate Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
+   * Drafted process control plans for two products.
+    * Assisted in a process certification event for air blocker door machining operations.
+   * Created pivot tables and pareto charts for data analysis and report generation using Tableau and VBA.
+   * Prepared customer scorecard reports for leadership review.
+   * Won 3rd place in both 2021 Summer Intern Talent Show and 2021 Summer Intern Social Engagement Competition leading a team of 6 against 70+ teams.
+ * **Viasat** / Satellite Pilot, with Satellite Controller Certification / Carlsbad, CA U.S.A. / October 2020 – June 2021
+    * Monitored and executed commands for proper functionality GEO SSL 1300 satellite fleet.
+    * Led daily status report meetings to update team of about 20 engineers and controllers.
+    * Wrote scripts in Python and MSDOS to automate Gyroscope Calibration Scheduling.
+    * Debugged code and extracted data via Python and MSDOS to streamline Eclipse Report Generation.
+    * Automated satellite commands through Python and KRATOS ARES software.
+    * Assisted engineers with analysis of spacecraft anomalies.
+    * Collected range data including troubleshooting and scheduling data.
  * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA U.S.A. / June 2020 – August 2020
     * Automated Delegated Quality Representative (DQR) certification tracking and reinforced forms management via Excel VBA; monitored supplier AS9100 and NADCAP certifications.
     * Coded a DQR tracker capable of reducing time spent on follow-up tasks by over 90%.
@@ -40,7 +52,7 @@
 * Computer Game Design
 
 ## IT Skills
-**Java**, **C#**, **VBA**, **HTML**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
+**Java**, **Python**, **C#**, **VBA**, **HTML**, **Tablaeu**, **SOLIDWORKS**, **AutoCAD**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
 
 ## Languanges
 * English - Native Language
