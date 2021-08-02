@@ -21,15 +21,15 @@
     * Certified in Satellite Controlling by Viasat Satellite Control Center.
     * Monitored and executed commands for proper functionality GEO SSL 1300 satellite fleet.
     * Led daily status report meetings to update team of about 20 engineers and controllers.
-    * Wrote scripts in **Python** and **MSDOS** to automate Gyroscope Calibration Scheduling.
-    * Debugged code and extracted data via **Python** and **MSDOS** to streamline Eclipse Report Generation.
+    * Wrote scripts in **Python** and **MS-DOS** to automate Gyroscope Calibration Scheduling.
+    * Debugged code and extracted data via **Python** and **MS-DOS** to streamline Eclipse Report Generation.
     * Automated satellite commands through **Python** and **KRATOS ARES** software.
     * Assisted engineers with analysis of spacecraft anomalies.
     * Collected range data including troubleshooting and scheduling data.
  * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA U.S.A. / June 2020 – August 2020
     * Automated Delegated Quality Representative (DQR) certification tracking and reinforced forms management via **Excel VBA**; monitored supplier AS9100 and NADCAP certifications.
     * Coded a DQR tracker capable of reducing time spent on follow-up tasks by over 90%.
-    * Wrote code to eliminate about 40 hours of form sorting time.
+    * Eliminated 40+ hours of form sorting time by coding VBA macros.
     * Cut reaction time for NADCAP failures from over 2 months to less than 2 weeks.
  * **Hack In Place Hackathon** / Remote, August 14-16, 2020	
     * Worked on a team with 5 other hackers to develop [Study Buds](https://drive.google.com/file/d/14P6fuNWjuAVWFeQ9fMKz9WSyp-H4Odrs/view), an app that connects students across time zones and schools to form study groups; developed through **Google Glide**.
