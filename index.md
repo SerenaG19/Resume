@@ -11,7 +11,7 @@
  * **Collins Aerospace** / Intern, Quality Engineerng, Sophomore / Windsor Locks, CT U.S.A. / June 2021 – July 2021
    * Saved about 20 days of processing time by supporting aging quality issue management burndown.
    * Wrote **VBA** code to automate data processing for 200+ data sets.
-   * Earned CORE Associate Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
+   * Earned CORE Apprentice Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
    * Drafted process control plans for two products.
     * Assisted in a process certification event for air blocker door machining operations.
    * Created pivot tables and pareto charts for data analysis and report generation using **Tableau** and **VBA**.
