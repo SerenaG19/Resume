@@ -8,7 +8,7 @@
     * Women in Computer Science Club Member, Computer Science Club Member    
 
 ## Computer Science Experience
- * **Collins Aerospace** / Intern, Quality Engineerng, Sophomore / Windsor Locks, CT U.S.A. / June 2021 – July 2021
+ * **Collins Aerospace** / Intern, Quality Engineering, Sophomore / Windsor Locks, CT U.S.A. / June 2021 – July 2021
    * Saved about 20 days of processing time by supporting aging quality issue management burndown.
    * Wrote **VBA** code to automate data processing for 200+ data sets.
    * Earned CORE Apprentice Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
