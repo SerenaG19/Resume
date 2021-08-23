@@ -2,7 +2,7 @@
 ## [Email](mailto:serena.geroe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/serena-geroe/)
 
 ## Education
- * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2025 (Gap Year 2020-2021)
+ * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2024 (Gap Year 2020-2021)
     * STRIDE Scholar, Society of Women Engineers Social Events Coordinator, Introduce a Girl to Engineering Day Activity Leader and Planning Committee Member
  * **MiraCosta Community College** / Part time student during gap year / Oceanside, CA U.S.A. / September 2020 – May 2021
     * Women in Computer Science Club Member, Computer Science Club Member    
