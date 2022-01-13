@@ -53,7 +53,7 @@
 * Computer Game Design
 
 ## IT Skills
-**Java**, **Python**, **C#**, **VBA**, **HTML**, **Tablaeu**, **SOLIDWORKS**, **AutoCAD**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
+**Java**, **Python**, **C#**, **VBA**, **HTML**, **MATLAB**, **MS-DOS**, **Tablaeu**, **SOLIDWORKS**, **AutoCAD**, **Fusion360**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
 
 ## Languanges
 * English - Native Language
