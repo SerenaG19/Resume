@@ -21,7 +21,7 @@
     * Certified in Satellite Controlling by Viasat Satellite Control Center.
     * Monitored and executed commands for proper functionality GEO SSL 1300 satellite fleet.
     * Led daily status report meetings to update team of about 20 engineers and controllers.
-    * Wrote scripts in **Python** and **MS-DOS** to automate Gyroscope Calibration Scheduling.
+    * Wrote scripts in **Python** and **MS-DOS** and used **MATLAB** to automate Gyroscope Calibration Scheduling.
     * Debugged code and extracted data via **Python** and **MS-DOS** to streamline Eclipse Report Generation.
     * Automated satellite commands through **Python** and **KRATOS ARES** software.
     * Assisted engineers with analysis of spacecraft anomalies.
