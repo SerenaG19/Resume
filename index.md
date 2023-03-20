@@ -46,6 +46,7 @@
     * Demonstrated dendrites do not form in cells with a SnO-based electron transport layer.
 
 ## Computer Science Coursework
+* Advanced Digital Design
 * Computer Architecture and Assembly Language
 * Data Structures and Algorithms
 * AP Computer Science A
@@ -70,6 +71,7 @@
  * CA Senate Certificate of Recognition, Outstanding Community Service, 2018
 
 ## Volunteering
+ * Activity Leader for Introduce a Girl to Engineering Day - Northampton, MA
  * Engineering outreach with kindergartners at Casa de Amistad - Solana Beach, CA
  * Math tutor for Pacific Trails Middle School - San Diego, CA
  * Integrated Math I-III tutor for Special Education Support Class at Canyon Crest Academy - San Diego, CA
