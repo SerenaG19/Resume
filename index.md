@@ -4,6 +4,11 @@
 ## Education
  * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2024 (Gap Year 2020-2021)
     * STRIDE Scholar, Society of Women Engineers Vice President, Introduce a Girl to Engineering Day Hydroponics Activity Leader and Planning Committee Member
+ 
+ *  **University College London** / Electronic and Electrical Engineering Department / London, England / January 2023 - June 2023
+    * Coursework in Advanced Digital Design, Digital Signal Processing, and Control Systems
+    * Studied, designed and tested systems with **SystemVerilog** and **RISC-V Architecture** 
+
  * **MiraCosta Community College** / Part time student during gap year / Oceanside, CA U.S.A. / September 2020 – May 2021
     * Women in Computer Science Club Member, Computer Science Club Member    
 
@@ -13,7 +18,7 @@
    * Wrote **VBA** code to automate data processing for 200+ data sets.
    * Earned CORE Apprentice Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
    * Drafted process control plans for two products.
-    * Assisted in a process certification event for air blocker door machining operations.
+   * Assisted in a process certification event for air blocker door machining operations.
    * Created pivot tables and pareto charts for data analysis and report generation using **Tableau** and **VBA**.
    * Prepared customer scorecard reports for leadership review.
    * Won 3rd place in both 2021 Summer Intern Talent Show and 2021 Summer Intern Social Engagement Competition leading a team of 6 against 70+ teams.
