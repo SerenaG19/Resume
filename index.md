@@ -54,6 +54,8 @@
 * Advanced Digital Design
 * Computer Architecture and Assembly Language
 * Data Structures and Algorithms
+* Digital Signal Processing and Systems
+* Control Systems I
 * AP Computer Science A
 * AP Computer Science Principles
 * Computer Game Design
