@@ -3,7 +3,7 @@
 
 ## Education
  * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2024 (Gap Year 2020-2021)
-    * Focus in Electrical Engineering, Computer Science Minor, STRIDE Scholar, Tau Beta Kappa Engineering Honor Society, Dean's List 2021-2022, Society of Women Engineers President, Introduce a Girl to Engineering Day Hydroponics Activity Leader and Planning Committee Member
+    * Focus in Electrical Engineering, STRIDE Scholar, Tau Beta Kappa Engineering Honor Society, Dean's List 2021-2022, Society of Women Engineers President, Introduce a Girl to Engineering Day Hydroponics Activity Leader and Planning Committee Member
  
  *  **University College London** / Electronic and Electrical Engineering Department / London, England / January 2023 - June 2023
     * Coursework in Advanced Digital Design, Digital Signal Processing, and Control Systems
