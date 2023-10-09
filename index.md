@@ -51,6 +51,7 @@
     * Demonstrated dendrites do not form in cells with a SnO-based electron transport layer.
 
 ## Computer Science Coursework
+* Computer Networks
 * Advanced Digital Design
 * Computer Architecture and Assembly Language
 * Data Structures and Algorithms
@@ -61,7 +62,7 @@
 * Computer Game Design
 
 ## IT Skills
-**Java**, **Python**, **C#**, **VBA**, **HTML**, **MATLAB**, **MS-DOS**, **Tablaeu**, **SOLIDWORKS**, **AutoCAD**, **Fusion360**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
+**Java**, **Python**, **C#**, **VBA**, **HTML**, **MATLAB**, **R**, **MS-DOS**, **Tablaeu**, **SOLIDWORKS**, **AutoCAD**, **Fusion360**, **RISC-V Architecture**, Windows 10, iOS 10, OS 10.14 (Mojave), Word, Excel, PowerPoint, Outlook
 
 ## Languanges
 * English - Native Language
@@ -73,7 +74,7 @@
 * SOLIDWORKS 2017 Essential Training – LinkedIn Learning, January 2020
 
 ## Awards
- * 2020 Dorothy Lemke Howarth Memorial Scholarship
+ * 2020 Dorothy Lemke Howarth Memorial Scholarship, Society of Women Engineers
  * Society of Women Engineers [SWENext Local Innovator Award](https://www.youtube.com/watch?v=JQgJAgrBz7U), 2018
  * CA Senate Certificate of Recognition, Outstanding Community Service, 2018
 
