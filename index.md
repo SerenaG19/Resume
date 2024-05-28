@@ -3,7 +3,9 @@
 
 ## Education
  * **Smith College** / Engineering Science, B.S. / Northampton, MA U.S.A. / September 2019 – May 2024 (Gap Year 2020-2021)
-    * Focus in Electrical Engineering, STRIDE Scholar, Tau Beta Kappa Engineering Honor Society, Dean's List 2021-2022, Society of Women Engineers President, Introduce a Girl to Engineering Day Hydroponics Activity Leader and Planning Committee Member
+    * Electrical Engineering focus, Computer Science Minor
+    * Activities: Society of Women Engineers, President; Jazz Smiths, Founder; 2019 Introduce a Girl to Engineering Day Hydroponics Activity Leader and Planning Committee Member
+    * Honors: Summa cum laude, STRIDE Scholar, Tau Beta Kappa Engineering Honor Society, Sigma Xi, Dean's List, Adeline Devor Penberthy Memorial Prize, 2024 Gates Cambridge Scholarship Finalist
  
  *  **University College London** / Electronic and Electrical Engineering Department / London, England / January 2023 - June 2023
     * Coursework in Advanced Digital Design, Digital Signal Processing, and Control Systems
@@ -13,7 +15,14 @@
     * Women in Computer Science Club Member, Computer Science Club Member    
 
 ## Computer Science Experience
- * **Collins Aerospace** / Intern, Quality Engineering, Sophomore / Windsor Locks, CT U.S.A. / June 2021 – July 2021
+ * **The Boeing Company** / Payloads Interiors Design Engineering Intern / Renton, WA / June 2023 – August 2023
+
+   Supported 737 Galley Systems by writing programs to automate and streamline team processes.
+   * Developed an **Excel** template capable of eliminating 2-3 hours of data comparison time to mark galley features with new part numbers for programs with reallocated components.
+   * Programmed an interactive tool in **Excel VBA** to standardize and streamline calculations for quarter-turn retainer engagement with galley carts and standard containers.
+   * Represented the 737 Galleys Team at daily PACER meetings and at a U.S. FDA Galley Review.  
+     
+ * **Collins Aerospace** / Intern, Quality Engineering, Sophomore / Windsor Locks, CT / June 2021 – July 2021
    * Saved about 20 days of processing time by supporting aging quality issue management burndown.
    * Wrote **VBA** code to automate data processing for 200+ data sets.
    * Earned CORE Apprentice Certification through training in problem solving tools such as market feedback analysis, SIPOC, RRCA, and others.
@@ -22,7 +31,7 @@
    * Created pivot tables and pareto charts for data analysis and report generation using **Tableau** and **VBA**.
    * Prepared customer scorecard reports for leadership review.
    * Won 3rd place in both 2021 Summer Intern Talent Show and 2021 Summer Intern Social Engagement Competition leading a team of 6 against 70+ teams.
- * **Viasat** / Satellite Pilot, with Satellite Controller Certification / Carlsbad, CA U.S.A. / October 2020 – June 2021
+ * **Viasat** / Satellite Pilot, with Satellite Controller Certification / Carlsbad, CA / October 2020 – June 2021
     * Certified in Satellite Controlling by Viasat Satellite Control Center.
     * Monitored and executed commands for proper functionality GEO SSL 1300 satellite fleet.
     * Led daily status report meetings to update team of about 20 engineers and controllers.
@@ -31,7 +40,7 @@
     * Automated satellite commands through **Python** and **KRATOS ARES** software.
     * Assisted engineers with analysis of spacecraft anomalies.
     * Collected range data including troubleshooting and scheduling data.
- * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA U.S.A. / June 2020 – August 2020
+ * **Collins Aerospace** / Intern, Quality Assurance / Chula Vista, CA / June 2020 – August 2020
     * Automated Delegated Quality Representative (DQR) certification tracking and reinforced forms management via **Excel VBA**; monitored supplier AS9100 and NADCAP certifications.
     * Coded a DQR tracker capable of reducing time spent on follow-up tasks by over 90%.
     * Eliminated 40+ hours of form sorting time by coding VBA macros.
@@ -45,7 +54,7 @@
     * Coded an **Arduino** for object detection and distance recognition in coordination with an ultrasonic sensor (not implemented in video).
     * Designed dimensions of the body components in **AutoCAD**.
     * Implemented a DC motor in coordination with a motor controller and powered by a 5 V battery to move the robot.
- * **University of California San Diego, Fenning Lab** / Researcher / La Jolla, CA U.S.A. / September 2017 – June 2019
+ * **University of California San Diego, Fenning Lab** / Researcher / La Jolla, CA / September 2017 – June 2019
     * Developed a perovskite formability calculator; investigated dendritic formations in solar cell material through photoluminescence mapping and applied bias.
     * Coded a perovskite formability calculator in **Python**, **JavaScript**, and **HTML**.
     * Demonstrated dendrites do not form in cells with a SnO-based electron transport layer.
